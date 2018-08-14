@@ -17,6 +17,7 @@ gem 'sassc'
 gem 'bootstrap', '~> 4.1.3'
 gem 'jquery-rails'
 gem 'material_design_icons'
+gem "font-awesome-rails"
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'mini_racer', platforms: :ruby
 
